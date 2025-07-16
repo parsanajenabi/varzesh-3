@@ -1,5 +1,5 @@
 # varzesh3 link downloader
-This project is a simple Python script that scrapes non-video news links from the homepage's main list of the Varzesh3 sports news website and saves them to a text file.
+This project is a simple Python script that scrapes non-video news links from the homepage's main list of the [Varzesh3](gttps://varzesh3.com) sports news website and saves them to a text file.
 ## requirements
 - +python 3.7
 - requests library
